@@ -3,7 +3,7 @@
 
 # Gradle issue reproducer
 
-This is a template repository to create reproducer projects for Gradle issues.
+This is a template repository to create reproducer projects for Gradle issues
 The template contains a GitHub Action definition that runs a Gradle build upon each code change.
 To quickly learn how it works, check the following screencast:
 

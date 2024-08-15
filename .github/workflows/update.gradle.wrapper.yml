@@ -1,4 +1,4 @@
-name: Update Gradle Wrapper
+name: Update.Gradle.Wrapper
 
 on:
   schedule:
@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update Gradle Wrapper
-        uses: gradle-update/update-gradle-wrapper-action@v1
+      - name: Update.Gradle.Wrapper
+        uses: gradle.update/update.gradle.wrapper.action@v1
